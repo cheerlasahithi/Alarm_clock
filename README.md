@@ -1,5 +1,5 @@
 # Alarm_clock
 simple Alarm_clock
-first we have use library of tkinter.ttk
-and next use icon.py
-finally music.mixer mp3
+Libraries used
+tkinter.ttk
+A simpler alarm program that notifies used at the specific selected time by playing a pre-determined song
